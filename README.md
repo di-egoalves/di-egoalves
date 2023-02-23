@@ -1,7 +1,7 @@
 ### Olá, Diego aqui!
 <div>
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=di-egoalves&layout=compact&langs_count=16&theme=react"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=di-egoalves&layout=compact&langs_count=16&theme=react"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=di-egoalves&layout=compact&langs_count=16&theme=react"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=di-egoalves&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
 
