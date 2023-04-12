@@ -23,6 +23,8 @@
 <a href="https://www.linkedin.com/in/di-ego/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-57bdda?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://instagram.com/d.iegoalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-57bdda?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:dev.alvesdiego@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-57bdda?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+ ![Snake animation](https://github.com/di-egoalves/di-egoalves/blob/output/github-contribution-grid-snake.svg)
 
   
 
