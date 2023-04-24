@@ -15,6 +15,7 @@
 ![Javascript](https://img.shields.io/badge/-JavaScript-57bdda?style=for-the-badge&logo=javascript&labelColor=20232a)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-57bdda?style=for-the-badge&logo=node.js&labelColor=20232a)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-57bdda?style=for-the-badge&logo=mysql&labelColor=20232a&logoColor=FFF)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-57bdda?style=for-the-badge&logo=mongodb&labelColor=20232a&logoColor=FFF)
 </div>
 <br>
 <div>
